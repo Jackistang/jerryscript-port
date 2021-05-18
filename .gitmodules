@@ -1,0 +1,6 @@
+[submodule "jerryscript"]
+	path = jerryscript
+	url = https://github.com/Jackistang/jerryscript.git
+[submodule "zephyr.js"]
+	path = zephyr.js
+	url = https://github.com/intel/zephyr.js.git
